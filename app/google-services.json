@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233123874337",
+    "project_id": "fir-connectivity-46257",
+    "storage_bucket": "fir-connectivity-46257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233123874337:android:e82799c8482d9196ab8560",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnectivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233123874337-7f3mcjog9squcu38tvccrcf8hobs4sck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVSet_Q17g1a_5S_6IlCjLvFk0KBWWAvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233123874337-7f3mcjog9squcu38tvccrcf8hobs4sck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FIrebaseConnectivity</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <!--    <string name="welcome">"Welcome !"</string>-->
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="sign_in">sign in</string>
+    <string name="new_registration">New Registration</string>
+    <string name="email">Email</string>
+    <string name="welcome">welcome</string>
+    <string name="message">
+        It contains at least 8 characters and at most 20 characters.\nIt contains at least one digit.\It contains at least one upper case alphabet.\nIt contains at least one lower case alphabet.\nIt contains at least one special character which includes !@#$%&amp;*()-+=^.\nIt does’t contain any white space.</string>
+    <string name="phone">phone</string>
+    <string name="username">Username</string>
+    <string name="welcome_back">Welcome Back</string>
+
+</resources>
